@@ -1,18 +1,21 @@
 <div align="center">
 
-# Hi 👋, I'm Komal Vashisth
+# Hi, I'm Komal Vashisth 👋
 
-### 💻 Aspiring Software Developer | 🎓 B.Tech CSE (AI) @ IGDTUW
+### Software Developer • AI & Machine Learning Enthusiast • Research Intern
 
 <p>
-<a href="https://komarev.com/ghpvc/?username=Komal-180205">
-<img src="https://komarev.com/ghpvc/?username=Komal-180205&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
+  <a href="https://komarev.com/ghpvc/?username=Komal-180205">
+    <img src="https://komarev.com/ghpvc/?username=Komal-180205&label=Profile%20Views&color=6A5ACD&style=flat-square" />
+  </a>
 
-<a href="https://github.com/Komal-180205?tab=followers">
-<img src="https://img.shields.io/github/followers/Komal-180205?label=Followers&style=social"/>
-</a>
+  <a href="https://github.com/Komal-180205">
+    <img src="https://img.shields.io/github/followers/Komal-180205?style=flat-square&logo=github" />
+  </a>
+
 </p>
+
+*"Learning. Building. Growing."*
 
 </div>
 
@@ -20,56 +23,104 @@
 
 # 👩‍💻 About Me
 
-🎓 I'm a **B.Tech Computer Science (AI)** student at **IGDTUW** passionate about building impactful software using **AI**, **Machine Learning**, and **Web Development**.
+I'm **Komal**, a B.Tech Computer Science (Artificial Intelligence) student at **Indira Gandhi Delhi Technical University for Women (IGDTUW)**.
 
-I enjoy solving challenging problems, building real-world applications, and continuously improving my software engineering skills.
+I enjoy solving challenging problems, building software from scratch, and exploring Artificial Intelligence to create practical solutions.
 
-- 🔬 Research Intern at **IGDTUW**
-- 🤖 ML & GenAI Intern at **Anveshan Foundation**
-- 💻 Solved **250+ DSA problems** across LeetCode & GeeksforGeeks
-- 🌱 Currently learning **System Design**, **Generative AI**, and **Full-Stack Development**
-- ⚡ Always excited to build projects that solve real problems.
+Currently, I'm working on research in **Vision-Language Models**, improving my problem-solving skills through DSA, and building AI-powered applications.
 
 ---
 
-# 🎯 At a Glance
+# 🎯 Quick Snapshot
 
-| 🎓 Education | B.Tech CSE (AI), IGDTUW (2028) |
-|--------------|-------------------------------|
-| 📊 CGPA | **9.07** |
-| 🔬 Current Roles | Research Intern @ IGDTUW • ML & GenAI Intern @ Anveshan Foundation |
-| 💻 DSA | **250+ Problems Solved** |
-| 🏆 Achievements | InnovorteX Top 8 • Google Big Code 2026 • HackWithUP Top 300 |
+🎓 **Education**
+
+B.Tech CSE (Artificial Intelligence)
+
+IGDTUW (2024–2028)
+
+CGPA: **9.07**
 
 ---
 
-# 🛠 Tech Stack
+🔬 **Experience**
 
-### Languages
+• Research Intern — IGDTUW
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,sql"/>
-</p>
+> Working on multimodal AI for explainable physics diagram understanding using Vision-Language Models.
 
-### Machine Learning
+• Machine Learning & Generative AI Intern
 
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
+> Anveshan Foundation
 
-- Scikit-learn
-- Pandas
-- NumPy
-- TF-IDF
-- Naive Bayes
-- Streamlit
-- Matplotlib
+Building AI applications using Python, Machine Learning, LLMs and Prompt Engineering.
 
-### Tools
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-</p>
+💻 **Problem Solving**
+
+✔ 250+ DSA problems solved across
+
+- LeetCode
+- GeeksforGeeks
+
+---
+
+🏆 **Achievements**
+
+🥇 Top 8 Finalist — InnovorteX 3.0
+
+(Top 1% among 1200+ teams)
+
+🚀 Qualified — Google Big Code Challenge 2026
+
+🏅 Top 300 Finalist — HackWithUttarPradesh
+
+---
+
+# ⚡ Tech Stack
+
+## Languages
+
+```text
+C++
+Python
+JavaScript
+SQL
+HTML
+CSS
+```
+
+## Computer Science
+
+```text
+Data Structures & Algorithms
+Object-Oriented Programming
+Operating Systems
+DBMS
+```
+
+## Machine Learning
+
+```text
+Scikit-learn
+Pandas
+NumPy
+TF-IDF
+Naive Bayes
+Matplotlib
+Streamlit
+```
+
+## Tools
+
+```text
+Git
+GitHub
+VS Code
+Figma
+Vercel
+```
 
 ---
 
@@ -77,78 +128,117 @@ I enjoy solving challenging problems, building real-world applications, and cont
 
 ## 📩 SMS Spam Detection using NLP
 
-> Machine Learning web application that classifies SMS messages as Spam or Ham using NLP.
+An NLP-powered spam detection system built using Machine Learning.
 
-**Tech Stack**
+### Highlights
 
-`Python` `Scikit-learn` `TF-IDF` `Streamlit`
+✔ 98.16% Accuracy
 
-✨ Highlights
+✔ 95.42% Precision
 
-- 98.16% Accuracy
-- 95.42% Precision
-- 90.58% Recall
-- 92.94% F1 Score
+✔ 90.58% Recall
+
+✔ 92.94% F1 Score
+
+### Tech
+
+Python
+
+Scikit-learn
+
+Streamlit
+
+TF-IDF
+
+Pandas
+
+NumPy
 
 ---
 
 ## 🌿 Plant Disease Detector
 
-AI-powered plant disease diagnosis using **Gemini Vision API**.
+AI-powered disease diagnosis using **Gemini Vision API**.
 
 ### Features
 
-- Disease Detection
-- Confidence Score
-- Severity Analysis
-- Treatment Recommendation
-- Prevention Suggestions
+• Disease Prediction
 
-**Tech**
+• Confidence Score
 
-HTML • CSS • JavaScript • Gemini Vision API
+• Severity Analysis
+
+• Symptoms Detection
+
+• Treatment Suggestions
+
+• Prevention Recommendations
+
+### Tech
+
+HTML
+
+CSS
+
+JavaScript
+
+Gemini Vision API
 
 ---
 
 ## 🎟 TicketBuddy
 
-Frontend railway ticket booking website focused on modern UI and better user experience.
+A modern railway ticket booking interface focused on improving user experience.
 
-**Tech**
+### Features
 
-HTML • CSS • JavaScript
+• Clean UI
 
-✨ Highlights
+• Responsive Design
 
-- Improved booking workflow
-- Responsive UI
-- Better navigation experience
+• Improved Booking Workflow
 
----
+• Better Navigation Experience
 
-# 🏆 Achievements
+### Tech
 
-🥇 **Top 8 Finalist** — InnovorteX 3.0 *(Top 1% among 1200+ teams)*
+HTML
 
-🚀 **Qualified** — Google Big Code Challenge 2026
+CSS
 
-🏅 **Top 300 Finalist** — HackWithUttarPradesh *(Top 10% among 3000+ participants)*
-
-💻 **250+ DSA Problems Solved**
+JavaScript
 
 ---
 
-# 📚 Currently Exploring
+# 📚 Currently Learning
 
-- Machine Learning
-- Generative AI
-- Full Stack Development
-- System Design
-- Advanced Data Structures & Algorithms
+• Advanced Data Structures & Algorithms
+
+• Machine Learning
+
+• Generative AI
+
+• Full Stack Development
+
+• System Design
 
 ---
 
-# 📈 GitHub Stats
+# 🎯 2026 Goals
+
+☑ Reach **500+ LeetCode problems**
+
+☑ Build impactful AI projects
+
+☑ Contribute to Open Source
+
+☑ Publish research work
+
+☑ Secure a Software Engineering Internship
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -160,7 +250,7 @@ HTML • CSS • JavaScript
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Komal-180205&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Komal-180205&theme=tokyonight"/>
 
 </p>
 
@@ -168,28 +258,28 @@ HTML • CSS • JavaScript
 
 # 🌐 Connect With Me
 
-<p align="left">
+### LinkedIn
 
-<a href="https://www.linkedin.com/in/komal-vashisth-36280a328">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+https://www.linkedin.com/in/komal-vashisth-36280a328
 
-<a href="https://leetcode.com/u/KomalVashisth/">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
-</a>
+### LeetCode
 
-<a href="mailto:komalvashisth04@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+https://leetcode.com/u/KomalVashisth/
 
-</p>
+### GitHub
+
+https://github.com/Komal-180205
+
+### Email
+
+komalvashisth04@gmail.com
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for stopping by!
 
-*"Learning, Building, and Growing — One Commit at a Time."*
+⭐ Feel free to explore my repositories and connect with me.
 
 </div>
