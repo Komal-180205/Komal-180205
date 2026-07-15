@@ -2,7 +2,7 @@
 
 # Hi, I'm Komal Vashisth 👋
 
-### Software Developer • AI & Machine Learning Enthusiast • Research Intern
+### Aspiring Software Developer 
 
 *"Learning. Building. Growing."*
 
