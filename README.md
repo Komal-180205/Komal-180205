@@ -4,17 +4,6 @@
 
 ### Software Developer • AI & Machine Learning Enthusiast • Research Intern
 
-<p>
-  <a href="https://komarev.com/ghpvc/?username=Komal-180205">
-    <img src="https://komarev.com/ghpvc/?username=Komal-180205&label=Profile%20Views&color=6A5ACD&style=flat-square" />
-  </a>
-
-  <a href="https://github.com/Komal-180205">
-    <img src="https://img.shields.io/github/followers/Komal-180205?style=flat-square&logo=github" />
-  </a>
-
-</p>
-
 *"Learning. Building. Growing."*
 
 </div>
