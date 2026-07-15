@@ -48,8 +48,6 @@ Building AI applications using Python, Machine Learning, LLMs and Prompt Enginee
 
 💻 **Problem Solving**
 
-✔ 250+ DSA problems solved across
-
 - LeetCode
 - GeeksforGeeks
 
@@ -224,24 +222,6 @@ JavaScript
 ☑ Publish research work
 
 ☑ Secure a Software Engineering Internship
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Komal-180205&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komal-180205&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Komal-180205&theme=tokyonight"/>
-
-</p>
 
 ---
 
